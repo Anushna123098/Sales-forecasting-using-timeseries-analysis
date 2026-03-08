@@ -1,0 +1,4 @@
+.venv/
+sales_env/
+__pycache__/
+*.pyc
